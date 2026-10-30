@@ -30,7 +30,7 @@
       "x": 1032,
       "y": 72,
       "w": 360,
-      "text": ""
+      "text": "Hello World"
     }
   },
   "order": [
@@ -39,5 +39,5 @@
     "yjtl6phywjxc"
   ],
   "arrows": [],
-  "updatedAt": "2026-10-30T09:56:06.145Z"
+  "updatedAt": "2026-10-30T09:56:11.621Z"
 }
