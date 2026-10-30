@@ -27,8 +27,8 @@
     "yjtl6phywjxc": {
       "id": "yjtl6phywjxc",
       "type": "heading",
-      "x": 1032,
-      "y": 72,
+      "x": 960,
+      "y": 96,
       "w": 360,
       "text": "Hello World();"
     }
@@ -39,5 +39,5 @@
     "yjtl6phywjxc"
   ],
   "arrows": [],
-  "updatedAt": "2026-10-30T09:56:13.533Z"
+  "updatedAt": "2026-10-30T09:56:16.427Z"
 }
