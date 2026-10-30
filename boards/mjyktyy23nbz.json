@@ -19,7 +19,7 @@
       "id": "yjtl6phywjxc",
       "type": "heading",
       "x": 960,
-      "y": 96,
+      "y": 120,
       "w": 456,
       "text": "Made with NoteMesa.com"
     },
@@ -47,12 +47,12 @@
   },
   "order": [
     "y0dx7tcwl3ll",
-    "yjtl6phywjxc",
     "yep6jwr2szoe",
-    "hfhssbeg2n8a"
+    "hfhssbeg2n8a",
+    "yjtl6phywjxc"
   ],
   "arrows": [],
-  "updatedAt": "2026-10-30T10:39:51.761Z",
+  "updatedAt": "2026-10-30T10:40:00.702Z",
   "trash": [
     {
       "id": "aa5yiol9311i",
