@@ -30,7 +30,8 @@
       "y": 792,
       "w": 120,
       "boardId": "wx7f1a9pojuj",
-      "icon": "emoji:rocket"
+      "icon": "emoji:rocket",
+      "color": "#6cc644"
     },
     "hfhssbeg2n8a": {
       "id": "hfhssbeg2n8a",
@@ -51,7 +52,7 @@
     "hfhssbeg2n8a"
   ],
   "arrows": [],
-  "updatedAt": "2026-10-30T10:39:46.592Z",
+  "updatedAt": "2026-10-30T10:39:51.761Z",
   "trash": [
     {
       "id": "aa5yiol9311i",
