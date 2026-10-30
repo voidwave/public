@@ -8,6 +8,16 @@
       "createdAt": "2026-10-25T20:36:47.872Z",
       "counts": {
         "cards": 0,
+        "boards": 1
+      }
+    },
+    "5hepobihoz7d": {
+      "id": "5hepobihoz7d",
+      "title": "Hello",
+      "parentId": "mjyktyy23nbz",
+      "createdAt": "2026-10-30T09:55:29.622Z",
+      "counts": {
+        "cards": 0,
         "boards": 0
       }
     }
