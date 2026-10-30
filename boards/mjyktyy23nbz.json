@@ -26,8 +26,8 @@
     "yep6jwr2szoe": {
       "id": "yep6jwr2szoe",
       "type": "board",
-      "x": 2160,
-      "y": 360,
+      "x": 936,
+      "y": 792,
       "w": 120,
       "boardId": "wx7f1a9pojuj",
       "icon": "emoji:rocket"
@@ -35,8 +35,8 @@
     "hfhssbeg2n8a": {
       "id": "hfhssbeg2n8a",
       "type": "note",
-      "x": 2320,
-      "y": 360,
+      "x": 1056,
+      "y": 792,
       "w": 240,
       "html": "<p><b>Take the tour</b> 🚀</p><p>See what NoteMesa can do.</p>",
       "color": "#a77df2",
@@ -51,7 +51,7 @@
     "hfhssbeg2n8a"
   ],
   "arrows": [],
-  "updatedAt": "2026-10-30T10:39:39.030Z",
+  "updatedAt": "2026-10-30T10:39:46.592Z",
   "trash": [
     {
       "id": "aa5yiol9311i",
