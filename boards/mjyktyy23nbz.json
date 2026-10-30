@@ -2,15 +2,6 @@
   "id": "mjyktyy23nbz",
   "version": 1,
   "cards": {
-    "4dywevbfcjbh": {
-      "id": "4dywevbfcjbh",
-      "type": "board",
-      "x": 2160,
-      "y": 168,
-      "w": 120,
-      "boardId": "5hepobihoz7d",
-      "icon": "emoji:waving-hand"
-    },
     "y0dx7tcwl3ll": {
       "id": "y0dx7tcwl3ll",
       "type": "image",
@@ -56,10 +47,30 @@
   "order": [
     "y0dx7tcwl3ll",
     "yjtl6phywjxc",
-    "4dywevbfcjbh",
     "yep6jwr2szoe",
     "hfhssbeg2n8a"
   ],
   "arrows": [],
-  "updatedAt": "2026-10-30T10:40:00.000Z"
+  "updatedAt": "2026-10-30T10:39:39.030Z",
+  "trash": [
+    {
+      "id": "aa5yiol9311i",
+      "at": "2026-10-30T10:39:39.030Z",
+      "cards": {
+        "4dywevbfcjbh": {
+          "id": "4dywevbfcjbh",
+          "type": "board",
+          "x": 2160,
+          "y": 168,
+          "w": 120,
+          "boardId": "5hepobihoz7d",
+          "icon": "emoji:waving-hand"
+        }
+      },
+      "order": [
+        "4dywevbfcjbh"
+      ],
+      "arrows": []
+    }
+  ]
 }
