@@ -1,8 +1,24 @@
 {
   "id": "5hepobihoz7d",
   "version": 1,
-  "cards": {},
-  "order": [],
+  "cards": {
+    "slg6emtcy66a": {
+      "id": "slg6emtcy66a",
+      "type": "image",
+      "x": 744,
+      "y": 96,
+      "w": 1368,
+      "assetId": "captwdjoy6mh",
+      "name": "ComfyUI_00654_.png",
+      "aspect": 0.5,
+      "caption": "",
+      "thumbId": "b1lgolaxhoyi",
+      "h": 684
+    }
+  },
+  "order": [
+    "slg6emtcy66a"
+  ],
   "arrows": [],
-  "updatedAt": "2026-10-30T09:55:29.622Z"
+  "updatedAt": "2026-10-30T09:56:38.152Z"
 }
