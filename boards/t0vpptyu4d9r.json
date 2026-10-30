@@ -1,0 +1,379 @@
+{
+  "id": "t0vpptyu4d9r",
+  "version": 1,
+  "cards": {
+    "68rzdav6xt52": {
+      "id": "68rzdav6xt52",
+      "type": "heading",
+      "x": 0,
+      "y": -70,
+      "w": 500,
+      "text": "Mind map",
+      "size": "xxl",
+      "font": "hand"
+    },
+    "oa0aae3cetox": {
+      "id": "oa0aae3cetox",
+      "type": "note",
+      "x": 360,
+      "y": 260,
+      "w": 220,
+      "html": "<h2>NoteMesa</h2>",
+      "color": "#4b7cf7",
+      "corners": "round",
+      "shadow": "raised"
+    },
+    "7flm7ec9jwvk": {
+      "id": "7flm7ec9jwvk",
+      "type": "note",
+      "x": 140,
+      "y": 80,
+      "w": 180,
+      "html": "<h3>Write</h3>",
+      "color": "#f2c94c",
+      "corners": "round"
+    },
+    "ds6dhat3ywbb": {
+      "id": "ds6dhat3ywbb",
+      "type": "note",
+      "x": -120,
+      "y": 40,
+      "w": 150,
+      "html": "<p>Notes</p>",
+      "corners": "round"
+    },
+    "b14c3ppyr0y0": {
+      "id": "b14c3ppyr0y0",
+      "type": "note",
+      "x": -120,
+      "y": 120,
+      "w": 150,
+      "html": "<p>Docs</p>",
+      "corners": "round"
+    },
+    "ig95jaqt8nde": {
+      "id": "ig95jaqt8nde",
+      "type": "note",
+      "x": 140,
+      "y": 480,
+      "w": 180,
+      "html": "<h3>Plan</h3>",
+      "color": "#6cc644",
+      "corners": "round"
+    },
+    "5mi1vgbgg3jf": {
+      "id": "5mi1vgbgg3jf",
+      "type": "note",
+      "x": -120,
+      "y": 440,
+      "w": 150,
+      "html": "<p>To-dos</p>",
+      "corners": "round"
+    },
+    "8l1a6esty5lu": {
+      "id": "8l1a6esty5lu",
+      "type": "note",
+      "x": -120,
+      "y": 520,
+      "w": 150,
+      "html": "<p>Tables</p>",
+      "corners": "round"
+    },
+    "z0c1g4y4rxn6": {
+      "id": "z0c1g4y4rxn6",
+      "type": "note",
+      "x": 760,
+      "y": 80,
+      "w": 180,
+      "html": "<h3>Collect</h3>",
+      "color": "#f178d0",
+      "corners": "round"
+    },
+    "oyoiiz6zxrlu": {
+      "id": "oyoiiz6zxrlu",
+      "type": "note",
+      "x": 1020,
+      "y": 40,
+      "w": 150,
+      "html": "<p>Pictures</p>",
+      "corners": "round"
+    },
+    "3mt0h371vi0s": {
+      "id": "3mt0h371vi0s",
+      "type": "note",
+      "x": 1020,
+      "y": 120,
+      "w": 150,
+      "html": "<p>Links</p>",
+      "corners": "round"
+    },
+    "ieqajy3c9dvb": {
+      "id": "ieqajy3c9dvb",
+      "type": "note",
+      "x": 760,
+      "y": 480,
+      "w": 180,
+      "html": "<h3>Share</h3>",
+      "color": "#56b4f0",
+      "corners": "round"
+    },
+    "q7co3t500jzh": {
+      "id": "q7co3t500jzh",
+      "type": "note",
+      "x": 1020,
+      "y": 440,
+      "w": 150,
+      "html": "<p>Web pages</p>",
+      "corners": "round"
+    },
+    "0baeg315jgcb": {
+      "id": "0baeg315jgcb",
+      "type": "note",
+      "x": 1020,
+      "y": 520,
+      "w": 150,
+      "html": "<p>Live cursors</p>",
+      "corners": "round"
+    },
+    "8iat8dup5njm": {
+      "id": "8iat8dup5njm",
+      "type": "note",
+      "x": 360,
+      "y": 560,
+      "w": 220,
+      "html": "<p class=\"small\">Press <b>Tab</b> on a note to grow a branch, then <b>Tidy up</b> to lay the map out.</p>"
+    }
+  },
+  "order": [
+    "68rzdav6xt52",
+    "oa0aae3cetox",
+    "7flm7ec9jwvk",
+    "ds6dhat3ywbb",
+    "b14c3ppyr0y0",
+    "ig95jaqt8nde",
+    "5mi1vgbgg3jf",
+    "8l1a6esty5lu",
+    "z0c1g4y4rxn6",
+    "oyoiiz6zxrlu",
+    "3mt0h371vi0s",
+    "ieqajy3c9dvb",
+    "q7co3t500jzh",
+    "0baeg315jgcb",
+    "8iat8dup5njm"
+  ],
+  "arrows": [
+    {
+      "id": "2d48pqjfndwc",
+      "from": {
+        "cardId": "oa0aae3cetox",
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "cardId": "7flm7ec9jwvk",
+        "x": 0,
+        "y": 0
+      },
+      "route": "smooth",
+      "head": "none",
+      "weight": "thick",
+      "color": "#f2c94c"
+    },
+    {
+      "id": "y1w2c4yw41sg",
+      "from": {
+        "cardId": "7flm7ec9jwvk",
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "cardId": "ds6dhat3ywbb",
+        "x": 0,
+        "y": 0
+      },
+      "route": "smooth",
+      "head": "none",
+      "color": "#f2c94c"
+    },
+    {
+      "id": "bui3ssinidh2",
+      "from": {
+        "cardId": "7flm7ec9jwvk",
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "cardId": "b14c3ppyr0y0",
+        "x": 0,
+        "y": 0
+      },
+      "route": "smooth",
+      "head": "none",
+      "color": "#f2c94c"
+    },
+    {
+      "id": "lez8y87qkukw",
+      "from": {
+        "cardId": "oa0aae3cetox",
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "cardId": "ig95jaqt8nde",
+        "x": 0,
+        "y": 0
+      },
+      "route": "smooth",
+      "head": "none",
+      "weight": "thick",
+      "color": "#6cc644"
+    },
+    {
+      "id": "becr7cfug1go",
+      "from": {
+        "cardId": "ig95jaqt8nde",
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "cardId": "5mi1vgbgg3jf",
+        "x": 0,
+        "y": 0
+      },
+      "route": "smooth",
+      "head": "none",
+      "color": "#6cc644"
+    },
+    {
+      "id": "z9d187ey44qx",
+      "from": {
+        "cardId": "ig95jaqt8nde",
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "cardId": "8l1a6esty5lu",
+        "x": 0,
+        "y": 0
+      },
+      "route": "smooth",
+      "head": "none",
+      "color": "#6cc644"
+    },
+    {
+      "id": "08h6cfhexyc9",
+      "from": {
+        "cardId": "oa0aae3cetox",
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "cardId": "z0c1g4y4rxn6",
+        "x": 0,
+        "y": 0
+      },
+      "route": "smooth",
+      "head": "none",
+      "weight": "thick",
+      "color": "#f178d0"
+    },
+    {
+      "id": "y59i02qe38xy",
+      "from": {
+        "cardId": "z0c1g4y4rxn6",
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "cardId": "oyoiiz6zxrlu",
+        "x": 0,
+        "y": 0
+      },
+      "route": "smooth",
+      "head": "none",
+      "color": "#f178d0"
+    },
+    {
+      "id": "r5f0qr0twoa1",
+      "from": {
+        "cardId": "z0c1g4y4rxn6",
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "cardId": "3mt0h371vi0s",
+        "x": 0,
+        "y": 0
+      },
+      "route": "smooth",
+      "head": "none",
+      "color": "#f178d0"
+    },
+    {
+      "id": "fproxgxfncvy",
+      "from": {
+        "cardId": "oa0aae3cetox",
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "cardId": "ieqajy3c9dvb",
+        "x": 0,
+        "y": 0
+      },
+      "route": "smooth",
+      "head": "none",
+      "weight": "thick",
+      "color": "#56b4f0"
+    },
+    {
+      "id": "ry4umy9ie1ix",
+      "from": {
+        "cardId": "ieqajy3c9dvb",
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "cardId": "q7co3t500jzh",
+        "x": 0,
+        "y": 0
+      },
+      "route": "smooth",
+      "head": "none",
+      "color": "#56b4f0"
+    },
+    {
+      "id": "azasatdxvfte",
+      "from": {
+        "cardId": "ieqajy3c9dvb",
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "cardId": "0baeg315jgcb",
+        "x": 0,
+        "y": 0
+      },
+      "route": "smooth",
+      "head": "none",
+      "color": "#56b4f0"
+    },
+    {
+      "id": "wm73jwkh7je8",
+      "from": {
+        "cardId": "oa0aae3cetox",
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "cardId": "8iat8dup5njm",
+        "x": 0,
+        "y": 0
+      },
+      "dash": "dotted",
+      "label": "how",
+      "bend": 0
+    }
+  ],
+  "updatedAt": "2026-10-30T10:40:00.000Z"
+}

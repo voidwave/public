@@ -1,0 +1,33 @@
+{
+  "id": "jrhr7a0fhl6y",
+  "version": 1,
+  "cards": {
+    "g69k3whomqnj": {
+      "id": "g69k3whomqnj",
+      "type": "heading",
+      "x": 0,
+      "y": -50,
+      "w": 500,
+      "text": "Drifting clouds",
+      "size": "xxl",
+      "font": "hand"
+    },
+    "kcgvdmkhkakn": {
+      "id": "kcgvdmkhkakn",
+      "type": "note",
+      "x": 0,
+      "y": 90,
+      "w": 300,
+      "html": "<p>A board with the <b>drifting clouds</b> background. It moves with the board as you pan.</p>",
+      "corners": "round",
+      "shadow": "floating"
+    }
+  },
+  "order": [
+    "g69k3whomqnj",
+    "kcgvdmkhkakn"
+  ],
+  "arrows": [],
+  "updatedAt": "2026-10-30T10:40:00.000Z",
+  "scene": "clouds"
+}

@@ -1,0 +1,233 @@
+{
+  "id": "pnwncz31b5ej",
+  "version": 1,
+  "cards": {
+    "9vwijdt6javx": {
+      "id": "9vwijdt6javx",
+      "type": "heading",
+      "x": 0,
+      "y": -50,
+      "w": 600,
+      "text": "Plan & track",
+      "size": "xxl",
+      "font": "hand"
+    },
+    "a3dsd5rfqg7n": {
+      "id": "a3dsd5rfqg7n",
+      "type": "todo",
+      "x": 0,
+      "y": 90,
+      "w": 280,
+      "title": "Launch checklist",
+      "items": [
+        {
+          "id": "zg02k2l8cxoc",
+          "text": "Sketch the idea",
+          "done": true
+        },
+        {
+          "id": "6uusotmfysv6",
+          "text": "Collect references",
+          "done": true
+        },
+        {
+          "id": "sgz4h5bu0y8n",
+          "text": "Write the first draft",
+          "done": false,
+          "start": "2026-11-02",
+          "due": "2026-11-06"
+        },
+        {
+          "id": "cmbxew1asli7",
+          "text": "Share it for feedback",
+          "done": false,
+          "due": "2026-11-10"
+        },
+        {
+          "id": "52r8alafn2da",
+          "text": "Publish 🎉",
+          "done": false,
+          "due": "2026-11-14"
+        }
+      ]
+    },
+    "da8zvzfvx9n3": {
+      "id": "da8zvzfvx9n3",
+      "type": "table",
+      "x": 310,
+      "y": 90,
+      "w": 460,
+      "header": true,
+      "rows": [
+        [
+          "Feature",
+          "Where",
+          "Status"
+        ],
+        [
+          "Boards in your repo",
+          "GitHub",
+          "Live"
+        ],
+        [
+          "Locked boards",
+          "Any board",
+          "Live"
+        ],
+        [
+          "Web pages",
+          "Public repos",
+          "Live"
+        ],
+        [
+          "Live cursors",
+          "Shared repos",
+          "Live"
+        ]
+      ],
+      "fills": [
+        [
+          "header",
+          "header",
+          "header"
+        ],
+        [
+          "",
+          "",
+          "#6cc644"
+        ],
+        [
+          "",
+          "",
+          "#6cc644"
+        ],
+        [
+          "",
+          "",
+          "#6cc644"
+        ],
+        [
+          "",
+          "",
+          "#6cc644"
+        ]
+      ],
+      "widths": [
+        2,
+        1.4,
+        1
+      ]
+    },
+    "akmc1v85tmqn": {
+      "id": "akmc1v85tmqn",
+      "type": "column",
+      "x": 0,
+      "y": 420,
+      "w": 240,
+      "title": "To do",
+      "children": [
+        "ase115hfcqwd",
+        "vgab97v9xjh6"
+      ]
+    },
+    "qrp7hfm10wt5": {
+      "id": "qrp7hfm10wt5",
+      "type": "column",
+      "x": 270,
+      "y": 420,
+      "w": 240,
+      "title": "Doing",
+      "children": [
+        "fr3vkv5fpbxk"
+      ]
+    },
+    "ozocko4jk8h3": {
+      "id": "ozocko4jk8h3",
+      "type": "column",
+      "x": 540,
+      "y": 420,
+      "w": 240,
+      "title": "Done",
+      "children": [
+        "gtxwi0uvap9j",
+        "4p1oyxipki4r"
+      ]
+    },
+    "ase115hfcqwd": {
+      "id": "ase115hfcqwd",
+      "type": "note",
+      "x": 0,
+      "y": 0,
+      "w": 240,
+      "html": "<p>Plan the trip</p>",
+      "parent": "akmc1v85tmqn",
+      "color": "#f2994a",
+      "colorStyle": "strip"
+    },
+    "vgab97v9xjh6": {
+      "id": "vgab97v9xjh6",
+      "type": "note",
+      "x": 0,
+      "y": 0,
+      "w": 240,
+      "html": "<p>Book the tickets</p>",
+      "parent": "akmc1v85tmqn",
+      "color": "#f2994a",
+      "colorStyle": "strip"
+    },
+    "fr3vkv5fpbxk": {
+      "id": "fr3vkv5fpbxk",
+      "type": "note",
+      "x": 0,
+      "y": 0,
+      "w": 240,
+      "html": "<p>Pack the bags</p>",
+      "parent": "qrp7hfm10wt5",
+      "color": "#56b4f0",
+      "colorStyle": "strip"
+    },
+    "gtxwi0uvap9j": {
+      "id": "gtxwi0uvap9j",
+      "type": "note",
+      "x": 0,
+      "y": 0,
+      "w": 240,
+      "html": "<p>Get passports</p>",
+      "parent": "ozocko4jk8h3",
+      "color": "#6cc644",
+      "colorStyle": "strip"
+    },
+    "4p1oyxipki4r": {
+      "id": "4p1oyxipki4r",
+      "type": "note",
+      "x": 0,
+      "y": 0,
+      "w": 240,
+      "html": "<p>Pick the dates</p>",
+      "parent": "ozocko4jk8h3",
+      "color": "#6cc644",
+      "colorStyle": "strip"
+    },
+    "3632uz9r595s": {
+      "id": "3632uz9r595s",
+      "type": "note",
+      "x": 810,
+      "y": 420,
+      "w": 260,
+      "html": "<h3>Same cards, other views</h3><p>Switch any board to <b>Lists</b>, <b>Calendar</b> or <b>Timeline</b> from the top bar, and to-dos with dates line up by day.</p>",
+      "color": "#a77df2",
+      "colorStyle": "strip"
+    }
+  },
+  "order": [
+    "9vwijdt6javx",
+    "a3dsd5rfqg7n",
+    "da8zvzfvx9n3",
+    "akmc1v85tmqn",
+    "qrp7hfm10wt5",
+    "ozocko4jk8h3",
+    "3632uz9r595s"
+  ],
+  "arrows": [],
+  "updatedAt": "2026-10-30T10:40:00.000Z"
+}

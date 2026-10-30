@@ -1,0 +1,129 @@
+{
+  "id": "0jdyc28mh8d8",
+  "version": 1,
+  "cards": {
+    "zotrkltwse0d": {
+      "id": "zotrkltwse0d",
+      "type": "heading",
+      "x": 0,
+      "y": -50,
+      "w": 700,
+      "text": "And there’s more",
+      "size": "xxl",
+      "font": "hand"
+    },
+    "ruy6we1bofoo": {
+      "id": "ruy6we1bofoo",
+      "type": "note",
+      "x": 0,
+      "y": 90,
+      "w": 270,
+      "html": "<h3>🔒 Locked boards</h3><p>Lock a board with a PIN and it’s encrypted in your browser before it reaches GitHub.</p>",
+      "color": "#5b5fd6",
+      "colorStyle": "strip",
+      "h": 160
+    },
+    "cim5lkkp1yj6": {
+      "id": "cim5lkkp1yj6",
+      "type": "note",
+      "x": 300,
+      "y": 90,
+      "w": 270,
+      "html": "<h3>🐙 Your repo, your data</h3><p>Boards, pictures and files live in your own GitHub repo, public or private, with full history.</p>",
+      "color": "#8f949c",
+      "colorStyle": "strip",
+      "h": 160
+    },
+    "g4ddvrb309lc": {
+      "id": "g4ddvrb309lc",
+      "type": "note",
+      "x": 600,
+      "y": 90,
+      "w": 270,
+      "html": "<h3>👥 Live cursors</h3><p>Work on a shared repo and see where everyone else is pointing.</p>",
+      "color": "#56b4f0",
+      "colorStyle": "strip",
+      "h": 160
+    },
+    "52f8fjsvc2on": {
+      "id": "52f8fjsvc2on",
+      "type": "note",
+      "x": 0,
+      "y": 280,
+      "w": 270,
+      "html": "<h3>📴 Offline</h3><p>Keep editing on a plane; changes sync when you’re back online.</p>",
+      "color": "#3fc1b0",
+      "colorStyle": "strip",
+      "h": 160
+    },
+    "gst0cdcxe2eh": {
+      "id": "gst0cdcxe2eh",
+      "type": "note",
+      "x": 300,
+      "y": 280,
+      "w": 270,
+      "html": "<h3>🧊 3D models</h3><p>Drop in a model and turn it around, with materials, or walk through a board as a 3D room.</p>",
+      "color": "#a77df2",
+      "colorStyle": "strip",
+      "h": 160
+    },
+    "deuizwpdqjz3": {
+      "id": "deuizwpdqjz3",
+      "type": "note",
+      "x": 600,
+      "y": 280,
+      "w": 270,
+      "html": "<h3>🔎 Search everything</h3><p>Find any card on any board, and jump anywhere with Ctrl+K.</p>",
+      "color": "#f2c94c",
+      "colorStyle": "strip",
+      "h": 160
+    },
+    "i2qzdikxmj1k": {
+      "id": "i2qzdikxmj1k",
+      "type": "note",
+      "x": 0,
+      "y": 470,
+      "w": 270,
+      "html": "<h3>📽️ Present</h3><p>Show a board one area at a time, like slides.</p>",
+      "color": "#f2994a",
+      "colorStyle": "strip",
+      "h": 160
+    },
+    "renzjcye3i3u": {
+      "id": "renzjcye3i3u",
+      "type": "note",
+      "x": 300,
+      "y": 470,
+      "w": 270,
+      "html": "<h3>📥 Import from Milanote</h3><p>Bring boards over from a Milanote share link.</p>",
+      "color": "#eb5757",
+      "colorStyle": "strip",
+      "h": 160
+    },
+    "fh7qnhkflsiu": {
+      "id": "fh7qnhkflsiu",
+      "type": "note",
+      "x": 600,
+      "y": 470,
+      "w": 270,
+      "html": "<h3>🌐 Web pages</h3><p>Publish a board as a page, like this one, even on your own GitHub Pages site.</p>",
+      "color": "#6cc644",
+      "colorStyle": "strip",
+      "h": 160
+    }
+  },
+  "order": [
+    "zotrkltwse0d",
+    "ruy6we1bofoo",
+    "cim5lkkp1yj6",
+    "g4ddvrb309lc",
+    "52f8fjsvc2on",
+    "gst0cdcxe2eh",
+    "deuizwpdqjz3",
+    "i2qzdikxmj1k",
+    "renzjcye3i3u",
+    "fh7qnhkflsiu"
+  ],
+  "arrows": [],
+  "updatedAt": "2026-10-30T10:40:00.000Z"
+}

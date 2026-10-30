@@ -7,8 +7,8 @@
       "title": "Home",
       "createdAt": "2026-10-25T20:36:47.872Z",
       "counts": {
-        "cards": 2,
-        "boards": 1
+        "cards": 3,
+        "boards": 2
       },
       "published": true
     },
@@ -19,6 +19,116 @@
       "createdAt": "2026-10-30T09:55:29.622Z",
       "counts": {
         "cards": 1,
+        "boards": 0
+      }
+    },
+    "wx7f1a9pojuj": {
+      "id": "wx7f1a9pojuj",
+      "title": "Tour NoteMesa",
+      "parentId": "mjyktyy23nbz",
+      "createdAt": "2026-10-30T10:40:00.000Z",
+      "counts": {
+        "cards": 3,
+        "boards": 7
+      }
+    },
+    "ju1kcqaoa30l": {
+      "id": "ju1kcqaoa30l",
+      "title": "Notes & writing",
+      "parentId": "wx7f1a9pojuj",
+      "createdAt": "2026-10-30T10:40:00.000Z",
+      "counts": {
+        "cards": 10,
+        "boards": 0
+      }
+    },
+    "pnwncz31b5ej": {
+      "id": "pnwncz31b5ej",
+      "title": "Plan & track",
+      "parentId": "wx7f1a9pojuj",
+      "createdAt": "2026-10-30T10:40:00.000Z",
+      "counts": {
+        "cards": 12,
+        "boards": 0
+      }
+    },
+    "t0vpptyu4d9r": {
+      "id": "t0vpptyu4d9r",
+      "title": "Mind map",
+      "parentId": "wx7f1a9pojuj",
+      "createdAt": "2026-10-30T10:40:00.000Z",
+      "counts": {
+        "cards": 15,
+        "boards": 0
+      }
+    },
+    "jm17vssyw8bn": {
+      "id": "jm17vssyw8bn",
+      "title": "Draw & colour",
+      "parentId": "wx7f1a9pojuj",
+      "createdAt": "2026-10-30T10:40:00.000Z",
+      "counts": {
+        "cards": 10,
+        "boards": 0
+      }
+    },
+    "hw0ptalnjjvg": {
+      "id": "hw0ptalnjjvg",
+      "title": "Places & links",
+      "parentId": "wx7f1a9pojuj",
+      "createdAt": "2026-10-30T10:40:00.000Z",
+      "counts": {
+        "cards": 5,
+        "boards": 0
+      }
+    },
+    "z3x6rlq8hibz": {
+      "id": "z3x6rlq8hibz",
+      "title": "Moving backgrounds",
+      "parentId": "wx7f1a9pojuj",
+      "createdAt": "2026-10-30T10:40:00.000Z",
+      "counts": {
+        "cards": 2,
+        "boards": 3
+      }
+    },
+    "vm38l53336uh": {
+      "id": "vm38l53336uh",
+      "title": "Starry night",
+      "parentId": "z3x6rlq8hibz",
+      "createdAt": "2026-10-30T10:40:00.000Z",
+      "counts": {
+        "cards": 2,
+        "boards": 0
+      }
+    },
+    "i07o9e52k0ae": {
+      "id": "i07o9e52k0ae",
+      "title": "Rain on glass",
+      "parentId": "z3x6rlq8hibz",
+      "createdAt": "2026-10-30T10:40:00.000Z",
+      "counts": {
+        "cards": 2,
+        "boards": 0
+      }
+    },
+    "jrhr7a0fhl6y": {
+      "id": "jrhr7a0fhl6y",
+      "title": "Drifting clouds",
+      "parentId": "z3x6rlq8hibz",
+      "createdAt": "2026-10-30T10:40:00.000Z",
+      "counts": {
+        "cards": 2,
+        "boards": 0
+      }
+    },
+    "0jdyc28mh8d8": {
+      "id": "0jdyc28mh8d8",
+      "title": "Everything else",
+      "parentId": "wx7f1a9pojuj",
+      "createdAt": "2026-10-30T10:40:00.000Z",
+      "counts": {
+        "cards": 10,
         "boards": 0
       }
     }

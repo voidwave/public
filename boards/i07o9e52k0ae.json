@@ -1,0 +1,33 @@
+{
+  "id": "i07o9e52k0ae",
+  "version": 1,
+  "cards": {
+    "se4ta942ycrr": {
+      "id": "se4ta942ycrr",
+      "type": "heading",
+      "x": 0,
+      "y": -50,
+      "w": 500,
+      "text": "Rain on glass",
+      "size": "xxl",
+      "font": "hand"
+    },
+    "j283hibsy80b": {
+      "id": "j283hibsy80b",
+      "type": "note",
+      "x": 0,
+      "y": 90,
+      "w": 300,
+      "html": "<p>A board with the <b>rain on glass</b> background. It moves with the board as you pan.</p>",
+      "corners": "round",
+      "shadow": "floating"
+    }
+  },
+  "order": [
+    "se4ta942ycrr",
+    "j283hibsy80b"
+  ],
+  "arrows": [],
+  "updatedAt": "2026-10-30T10:40:00.000Z",
+  "scene": "rain"
+}

@@ -1,0 +1,126 @@
+{
+  "id": "ju1kcqaoa30l",
+  "version": 1,
+  "cards": {
+    "fsll0yjmu3xn": {
+      "id": "fsll0yjmu3xn",
+      "type": "heading",
+      "x": 0,
+      "y": -50,
+      "w": 620,
+      "text": "Notes & writing",
+      "size": "xxl",
+      "font": "hand"
+    },
+    "vk06qyho0qj5": {
+      "id": "vk06qyho0qj5",
+      "type": "note",
+      "x": 0,
+      "y": 90,
+      "w": 300,
+      "html": "<h2>Rich notes</h2><p>Write with <b>bold</b>, <i>italic</i>, <u>underline</u> and <s>strike</s>.</p><p><span class=\"tc-blue\">Coloured</span> <span class=\"tc-green\">text</span> and <span class=\"hl-yellow\">highlights</span> too.</p><ul><li>Lists</li><li>Checklists and to-dos</li></ul>"
+    },
+    "fnhtl9t21ajs": {
+      "id": "fnhtl9t21ajs",
+      "type": "note",
+      "x": 330,
+      "y": 90,
+      "w": 280,
+      "html": "<p class=\"callout\">Callouts make a point stand out.</p><blockquote>“Quotes look like this.”</blockquote><pre><code>code blocks keep their spacing</code></pre>"
+    },
+    "rcyyv2iadsxu": {
+      "id": "rcyyv2iadsxu",
+      "type": "note",
+      "x": 640,
+      "y": 90,
+      "w": 260,
+      "html": "<p><span class=\"ff-hand fs-xl\">Handwriting</span></p><p><span class=\"ff-serif fs-l\">A serif face</span></p><p><span class=\"ff-mono\">and a mono one</span></p><p dir=\"rtl\"><span class=\"ff-kufi fs-l\">مرحبا بالعالم</span></p>"
+    },
+    "fccpg8asbe4i": {
+      "id": "fccpg8asbe4i",
+      "type": "note",
+      "x": 0,
+      "y": 420,
+      "w": 220,
+      "html": "<p><b>Sticky notes</b></p><p>Pick a colour and the sticky look.</p>",
+      "color": "#f2c94c",
+      "look": "sticky",
+      "h": 200
+    },
+    "7g7cso2kuakd": {
+      "id": "7g7cso2kuakd",
+      "type": "note",
+      "x": 250,
+      "y": 420,
+      "w": 220,
+      "html": "<p><b>Round and raised</b></p><p>Cards can float above the board.</p>",
+      "color": "#56b4f0",
+      "corners": "round",
+      "shadow": "floating",
+      "h": 200
+    },
+    "k3fdsm74ojpj": {
+      "id": "k3fdsm74ojpj",
+      "type": "note",
+      "x": 500,
+      "y": 420,
+      "w": 220,
+      "html": "<p><b>Colour strips</b></p><p>A thin band of colour along the top.</p>",
+      "color": "#f178d0",
+      "colorStyle": "strip",
+      "h": 200
+    },
+    "2vb0dndqjcve": {
+      "id": "2vb0dndqjcve",
+      "type": "doc",
+      "x": 750,
+      "y": 420,
+      "w": 220,
+      "title": "A long document",
+      "html": "<p>A doc card opens into a full page editor, for writing that doesn’t fit on a note.</p><h2>Why</h2><p>Plans, essays, meeting notes, story chapters.</p>"
+    },
+    "gad7b4b2g3fz": {
+      "id": "gad7b4b2g3fz",
+      "type": "comment",
+      "x": 1000,
+      "y": 90,
+      "w": 260,
+      "thread": [
+        {
+          "id": "ct07a3jukhgl",
+          "author": "Sam",
+          "text": "Comments let people talk about a board right on it.",
+          "at": "2026-10-30T10:40:00.000Z"
+        },
+        {
+          "id": "1vw99ouuhw76",
+          "author": "Riley",
+          "text": "And replies keep the thread together.",
+          "at": "2026-10-30T10:40:00.000Z"
+        }
+      ]
+    },
+    "xu45jg28kthf": {
+      "id": "xu45jg28kthf",
+      "type": "note",
+      "x": 1000,
+      "y": 420,
+      "w": 260,
+      "html": "<h3>Linked boards</h3><p>Type <b>[[</b> and a board’s name to link to it. Try <a href=\"#\">[[Plan &amp; track]]</a>.</p><p class=\"small\">Every board also lists the boards that link to it.</p>"
+    }
+  },
+  "order": [
+    "fsll0yjmu3xn",
+    "vk06qyho0qj5",
+    "fnhtl9t21ajs",
+    "rcyyv2iadsxu",
+    "fccpg8asbe4i",
+    "7g7cso2kuakd",
+    "k3fdsm74ojpj",
+    "2vb0dndqjcve",
+    "gad7b4b2g3fz",
+    "xu45jg28kthf"
+  ],
+  "arrows": [],
+  "updatedAt": "2026-10-30T10:40:00.000Z"
+}

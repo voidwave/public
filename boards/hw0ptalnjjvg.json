@@ -1,0 +1,70 @@
+{
+  "id": "hw0ptalnjjvg",
+  "version": 1,
+  "cards": {
+    "xfrmodajjyjn": {
+      "id": "xfrmodajjyjn",
+      "type": "heading",
+      "x": 0,
+      "y": -50,
+      "w": 600,
+      "text": "Places & links",
+      "size": "xxl",
+      "font": "hand"
+    },
+    "87z5dwxqxuvd": {
+      "id": "87z5dwxqxuvd",
+      "type": "map",
+      "x": 0,
+      "y": 90,
+      "w": 420,
+      "h": 300,
+      "query": "Riyadh",
+      "place": {
+        "name": "Riyadh, Saudi Arabia",
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "zoom": 11
+    },
+    "2da90a142bxa": {
+      "id": "2da90a142bxa",
+      "type": "link",
+      "x": 450,
+      "y": 90,
+      "w": 300,
+      "url": "https://notemesa.com/",
+      "title": "NoteMesa",
+      "description": "Boards for notes, pictures and plans, saved in your own GitHub repo.",
+      "siteName": "notemesa.com"
+    },
+    "8a4c1p5tvk2p": {
+      "id": "8a4c1p5tvk2p",
+      "type": "link",
+      "x": 450,
+      "y": 250,
+      "w": 300,
+      "url": "https://github.com/voidwave/public",
+      "title": "This page’s boards on GitHub",
+      "description": "Every board here is a file in a public repo.",
+      "siteName": "GitHub"
+    },
+    "46w4q0l0psuo": {
+      "id": "46w4q0l0psuo",
+      "type": "note",
+      "x": 780,
+      "y": 90,
+      "w": 300,
+      "html": "<h3>Links come alive</h3><p>Paste a link to YouTube, Vimeo, Spotify, Figma, Google Maps and more, and it plays right on the board after one click.</p>"
+    }
+  },
+  "order": [
+    "xfrmodajjyjn",
+    "87z5dwxqxuvd",
+    "2da90a142bxa",
+    "8a4c1p5tvk2p",
+    "46w4q0l0psuo"
+  ],
+  "arrows": [],
+  "updatedAt": "2026-10-30T10:40:00.000Z"
+}

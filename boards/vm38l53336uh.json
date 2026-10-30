@@ -1,0 +1,34 @@
+{
+  "id": "vm38l53336uh",
+  "version": 1,
+  "cards": {
+    "qi9c0wshxra3": {
+      "id": "qi9c0wshxra3",
+      "type": "heading",
+      "x": 0,
+      "y": -50,
+      "w": 500,
+      "text": "Starry night",
+      "size": "xxl",
+      "font": "hand",
+      "textColor": "yellow"
+    },
+    "lvr4qk4kwci1": {
+      "id": "lvr4qk4kwci1",
+      "type": "note",
+      "x": 0,
+      "y": 90,
+      "w": 300,
+      "html": "<p>A board with the <b>starry night</b> background. It moves with the board as you pan.</p>",
+      "corners": "round",
+      "shadow": "floating"
+    }
+  },
+  "order": [
+    "qi9c0wshxra3",
+    "lvr4qk4kwci1"
+  ],
+  "arrows": [],
+  "updatedAt": "2026-10-30T10:40:00.000Z",
+  "scene": "stars"
+}

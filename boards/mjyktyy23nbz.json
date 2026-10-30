@@ -31,13 +31,35 @@
       "y": 96,
       "w": 456,
       "text": "Made with NoteMesa.com"
+    },
+    "yep6jwr2szoe": {
+      "id": "yep6jwr2szoe",
+      "type": "board",
+      "x": 2160,
+      "y": 360,
+      "w": 120,
+      "boardId": "wx7f1a9pojuj",
+      "icon": "emoji:rocket"
+    },
+    "hfhssbeg2n8a": {
+      "id": "hfhssbeg2n8a",
+      "type": "note",
+      "x": 2320,
+      "y": 360,
+      "w": 240,
+      "html": "<p><b>Take the tour</b> 🚀</p><p>See what NoteMesa can do.</p>",
+      "color": "#a77df2",
+      "corners": "round",
+      "shadow": "floating"
     }
   },
   "order": [
     "y0dx7tcwl3ll",
     "yjtl6phywjxc",
-    "4dywevbfcjbh"
+    "4dywevbfcjbh",
+    "yep6jwr2szoe",
+    "hfhssbeg2n8a"
   ],
   "arrows": [],
-  "updatedAt": "2026-10-30T10:12:29.266Z"
+  "updatedAt": "2026-10-30T10:40:00.000Z"
 }

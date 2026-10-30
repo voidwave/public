@@ -1,0 +1,116 @@
+{
+  "id": "wx7f1a9pojuj",
+  "version": 1,
+  "cards": {
+    "vraf6imwdo4q": {
+      "id": "vraf6imwdo4q",
+      "type": "heading",
+      "x": 0,
+      "y": 0,
+      "w": 600,
+      "text": "Tour NoteMesa",
+      "size": "xxl",
+      "font": "hand",
+      "align": "center"
+    },
+    "63b37mkd40me": {
+      "id": "63b37mkd40me",
+      "type": "note",
+      "x": 100,
+      "y": 130,
+      "w": 400,
+      "html": "<p>Free boards for notes, pictures and plans, saved in <b>your own GitHub repo</b>. Open a board below to look around.</p>",
+      "corners": "round",
+      "shadow": "floating"
+    },
+    "nmn4lriylz2a": {
+      "id": "nmn4lriylz2a",
+      "type": "board",
+      "x": 20,
+      "y": 300,
+      "w": 120,
+      "boardId": "ju1kcqaoa30l",
+      "icon": "emoji:memo"
+    },
+    "k95woj4rbuq6": {
+      "id": "k95woj4rbuq6",
+      "type": "board",
+      "x": 180,
+      "y": 300,
+      "w": 120,
+      "boardId": "pnwncz31b5ej",
+      "icon": "emoji:check-mark-button"
+    },
+    "7pbx67m397fi": {
+      "id": "7pbx67m397fi",
+      "type": "board",
+      "x": 340,
+      "y": 300,
+      "w": 120,
+      "boardId": "t0vpptyu4d9r",
+      "icon": "emoji:brain"
+    },
+    "zjfg34dejuv5": {
+      "id": "zjfg34dejuv5",
+      "type": "board",
+      "x": 500,
+      "y": 300,
+      "w": 120,
+      "boardId": "jm17vssyw8bn",
+      "icon": "emoji:artist-palette"
+    },
+    "dahlmy1zqd3v": {
+      "id": "dahlmy1zqd3v",
+      "type": "board",
+      "x": 100,
+      "y": 490,
+      "w": 120,
+      "boardId": "hw0ptalnjjvg",
+      "icon": "emoji:world-map"
+    },
+    "hp2vnma56x7z": {
+      "id": "hp2vnma56x7z",
+      "type": "board",
+      "x": 260,
+      "y": 490,
+      "w": 120,
+      "boardId": "z3x6rlq8hibz",
+      "icon": "emoji:tropical-fish"
+    },
+    "npm4n01c6sne": {
+      "id": "npm4n01c6sne",
+      "type": "board",
+      "x": 420,
+      "y": 490,
+      "w": 120,
+      "boardId": "0jdyc28mh8d8",
+      "icon": "emoji:sparkles"
+    },
+    "cav5edkh89yb": {
+      "id": "cav5edkh89yb",
+      "type": "heading",
+      "x": 0,
+      "y": 700,
+      "w": 600,
+      "text": "Made with NoteMesa.com",
+      "size": "l",
+      "align": "center",
+      "textColor": "blue"
+    }
+  },
+  "order": [
+    "vraf6imwdo4q",
+    "63b37mkd40me",
+    "nmn4lriylz2a",
+    "k95woj4rbuq6",
+    "7pbx67m397fi",
+    "zjfg34dejuv5",
+    "dahlmy1zqd3v",
+    "hp2vnma56x7z",
+    "npm4n01c6sne",
+    "cav5edkh89yb"
+  ],
+  "arrows": [],
+  "updatedAt": "2026-10-30T10:40:00.000Z",
+  "scene": "clouds"
+}

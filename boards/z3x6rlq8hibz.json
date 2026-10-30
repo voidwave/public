@@ -1,0 +1,63 @@
+{
+  "id": "z3x6rlq8hibz",
+  "version": 1,
+  "cards": {
+    "k64sas6tt7es": {
+      "id": "k64sas6tt7es",
+      "type": "heading",
+      "x": 0,
+      "y": -50,
+      "w": 700,
+      "text": "Moving backgrounds",
+      "size": "xxl",
+      "font": "hand"
+    },
+    "e18hxyww66r5": {
+      "id": "e18hxyww66r5",
+      "type": "note",
+      "x": 0,
+      "y": 90,
+      "w": 320,
+      "html": "<p>Boards can have a living background. This one is a <b>koi pond</b>: the fish swim under your cards. Open the others below.</p>",
+      "corners": "round",
+      "shadow": "floating"
+    },
+    "oktq5mfr3tc8": {
+      "id": "oktq5mfr3tc8",
+      "type": "board",
+      "x": 380,
+      "y": 100,
+      "w": 120,
+      "boardId": "vm38l53336uh",
+      "icon": "emoji:night-with-stars"
+    },
+    "eaxdkedbi60e": {
+      "id": "eaxdkedbi60e",
+      "type": "board",
+      "x": 540,
+      "y": 100,
+      "w": 120,
+      "boardId": "i07o9e52k0ae",
+      "icon": "emoji:cloud-with-rain"
+    },
+    "7tbt8do83xu3": {
+      "id": "7tbt8do83xu3",
+      "type": "board",
+      "x": 700,
+      "y": 100,
+      "w": 120,
+      "boardId": "jrhr7a0fhl6y",
+      "icon": "emoji:sun-behind-cloud"
+    }
+  },
+  "order": [
+    "k64sas6tt7es",
+    "e18hxyww66r5",
+    "oktq5mfr3tc8",
+    "eaxdkedbi60e",
+    "7tbt8do83xu3"
+  ],
+  "arrows": [],
+  "updatedAt": "2026-10-30T10:40:00.000Z",
+  "scene": "pond"
+}
