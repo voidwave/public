@@ -5,8 +5,8 @@
     "4dywevbfcjbh": {
       "id": "4dywevbfcjbh",
       "type": "board",
-      "x": 792,
-      "y": 336,
+      "x": 2160,
+      "y": 168,
       "w": 120,
       "boardId": "5hepobihoz7d",
       "icon": "emoji:waving-hand"
@@ -34,10 +34,10 @@
     }
   },
   "order": [
-    "4dywevbfcjbh",
     "y0dx7tcwl3ll",
-    "yjtl6phywjxc"
+    "yjtl6phywjxc",
+    "4dywevbfcjbh"
   ],
   "arrows": [],
-  "updatedAt": "2026-10-30T09:56:20.505Z"
+  "updatedAt": "2026-10-30T09:56:25.109Z"
 }
